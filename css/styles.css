@@ -2,25 +2,29 @@
 /* CSS Document */
 
 li {
-	float: left;
-	display: block;
+	display: inline-block;
 	line-height:50px;
-	padding: 0 75px;
+	padding: 0 40px;
+	
 }
 
 ul {
 	list-style-type: none;
+	
 }
 
 nav {
 	background-color: gray; /*change color later*/
 	width: 100%;
 	height: 50px;
+	text-align:center;
+
 }
 
 a:link {
 	text-decoration:none;
 	color:black;
+	
 }
 
 a:visited {
@@ -38,3 +42,20 @@ a:active {
 }
 
 /*all link information will be changed later, but this is just the basis so that I have the coding information here*/
+
+
+body {
+	background-image:url(../images/vineyard.jpg);
+	background-repeat:no-repeat;
+	background-position: auto;
+	background-size:auto;
+} /*photo will be changed later*/
+
+
+
+
+/*find font to use*/
+/*finish stylizing nav bar*/
+/*get high quality pictures to use*/
+/*check out lightfoot and wolfville website*/
+/*also check out stoller family estate website...I like the large photos that scroll and keeping the name of the vineyard in the upper corner*/
