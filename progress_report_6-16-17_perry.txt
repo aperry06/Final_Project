@@ -1,0 +1,23 @@
+commit 7935515ff670a9eaab94892c8ec7ca18a2127f9f
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 16 14:33:35 2017 -0700
+
+    added notes in comments
+
+commit 0dcedcb0942bf53a166bbcfa6b6758093b4d10f6
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 16 14:03:54 2017 -0700
+
+    added text to welcome page
+
+commit 82237c58dd5226271172bbe3ac2b569fcc8e2cc4
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 16 13:37:23 2017 -0700
+
+    created nav bar
+
+commit ca6d30c7492fba77e2a7aba1955399bc8fb956ea
+Author: Amanda Perry <aperry06@calpoly.edu>
+Date:   Tue May 16 13:22:12 2017 -0700
+
+    add files
